@@ -3,7 +3,7 @@ i have made the bank maganment system using c++
 with my friend in Turbo c++
 Date - 10 -02-2023*/
 
-
+///Admin pass = 9009
 
 #include <iostream.h>
 #include<conio.h>
